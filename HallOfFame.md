@@ -528,3 +528,8 @@ Add your projects to the end of this List!
 | ----- | ------- | ----------- | ----- |
 | 01/2017 | [FPL Analysis](https://github.com/milanchheda/fplanalysis) | FPL Analysis for Fantasy Premier League Managers. Shows different types of stats and charts for FPL managers and their teams. | Released |
 
+## [adilshahzad](https://github.com/adilshahzad)
+
+| Month | Project | Description | State |
+| ----- | ------- | ----------- | ----- |
+| 02/2017 | [Educational Portal](http://epop.pk) | epop.pk is a portal for educational institutes in Pakistan. | Released |
